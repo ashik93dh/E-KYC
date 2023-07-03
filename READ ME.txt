@@ -1,0 +1,13 @@
+3
+
+You can permitted a specific site or port:
+
+To ignore Chrome’s secure origin policy, follow these steps.
+
+Navigate to chrome://flags/#unsafely-treat-insecure-origin-as-secure in Chrome.
+
+Find and enable the Insecure origins treated as secure section (see below).
+
+Add any addresses you want to ignore the secure origin policy for. Remember to include the port number too (if required).
+
+Save and restart Chrome.
